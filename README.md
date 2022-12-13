@@ -1,1 +1,1 @@
-# https://raidmagorsha.github.io/rsschool-cv/cv
+https://raidmagorsha.github.io/rsschool-cv/cv
